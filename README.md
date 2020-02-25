@@ -6,5 +6,5 @@ Sales tax calculator using Swift that supports all the provinces in Canada
 
 #### What is the use of this application? 
 
-As the name of the application states, the idea of the is to calculate the amount of tax (depending on the province) by adding the tax amount of the purchase to the original amount, ending with the final price. 
+As the name of the application states, the idea is to calculate the amount of tax (depending on the province) by adding the tax amount of the purchase to the original amount, ending with the final price. 
 
