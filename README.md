@@ -1,5 +1,5 @@
 # Sales-Tax-Calculator
-Sales tax calculator using Swift that supports all the provinces in Canada 
+Sales tax calculator using Swift that supports the sales calculations for all the provinces in Canada 
 
 ## Quick view of the application 
 <a href="https://imgflip.com/gif/3q6p6u"><img src="https://i.imgflip.com/3q6p6u.gif" title="made at imgflip.com"/></a>
